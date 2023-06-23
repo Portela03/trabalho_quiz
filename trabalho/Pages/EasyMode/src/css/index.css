@@ -1,0 +1,146 @@
+body {
+    background: #000000;
+}
+
+header, .navbar, footer.container-fluid{
+    width: 100%;
+    height: 166px;
+    background: linear-gradient(92.18deg, #9B2BCF 35.79%, rgba(11, 179, 216, 0.91) 69.03%);
+}
+
+.first-home {
+    width: 195px;
+    height: 117px;
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 117px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.last-home {
+    width: 572px;
+    height: 78px;
+    margin-right: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 78px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+main {
+    min-height: 574px;
+}
+
+h2 {
+    width: 550px;
+    height: 117px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 117px;
+    text-align: center;
+    color: #0BB3D8;
+}
+
+h1 {
+
+    color: #9B2BCF;
+
+}
+
+.questions {
+    width: 908px;
+    border: 4px solid #6657CB;
+    border-radius: 36px;
+}
+
+.questionDiv {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    color: #6657CB;
+    margin-top: 50px;
+}
+
+.awnserDiv {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 78px;
+    text-align: center;
+    color:rgba(11, 179, 216, 0.91);
+}
+
+.awnserDiv input {
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    color:rgba(11, 179, 216, 0.91);
+    border: 4px solid rgba(11, 179, 216, 0.91);
+
+}
+
+.nextBtn {
+    width: 282px;
+    height: 84px;
+    background: #6657CB;
+    border: 3px solid #FFFFFF;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+#p1{
+    display: block;
+    
+}
+
+#p2{
+    display: none;
+    
+}
+
+#p3{
+    display: none;
+    
+}
+
+#p4{
+    display: none;
+    
+}
+
+#p5{
+    display: none;
+    
+}
+
+#f{
+    display: none;
+    
+}
+
+.seg{
+    color: #9B2BCF;
+    position: absolute;
+    top: 100;
+    right: 0;
+    padding-right: 1200px;
+    font-size: 130px;
+}
+
+ 
